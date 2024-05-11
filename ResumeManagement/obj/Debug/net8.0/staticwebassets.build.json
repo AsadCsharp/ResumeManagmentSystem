@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "hHhkO4vQCZj/YWiEicQ3bSr+E3YYYrg2zdvU7ds9evA=",
+  "Source": "ResumeManagement",
+  "BasePath": "_content/ResumeManagement",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ResumeManagement\\wwwroot",
+      "Source": "ResumeManagement",
+      "ContentRoot": "D:\\CSharp_Course\\angular\\ResumeManagement\\ResumeManagement\\wwwroot\\",
+      "BasePath": "_content/ResumeManagement",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
